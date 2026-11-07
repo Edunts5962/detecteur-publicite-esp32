@@ -1,0 +1,18 @@
+# identifiants Wi-Fi personnels (copier identifiants_exemple.h en identifiants.h)
+firmware/pub_console/identifiants.h
+
+# compilation Arduino / PlatformIO
+build/
+.pio/
+*.bin
+*.elf
+*.map
+
+# Python
+__pycache__/
+*.pyc
+
+# systeme
+.DS_Store
+Thumbs.db
+desktop.ini
